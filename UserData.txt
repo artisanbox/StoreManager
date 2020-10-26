@@ -1,0 +1,9 @@
+0 gen 123 
+1 gengen 111 
+2 dudu 111 
+3 luo 11111 
+4 gen123 123 
+5 luogensheng 1111 
+6 dudududu 123 
+7 dududu 111 
+8 luo 123 
