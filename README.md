@@ -1,4 +1,4 @@
 # StoreManager
 - 仓库管理系统
 
-![images](https://github.com/artisanbox/StoreManager/blob/main/demoImages/interface.png)
+![images](https://juantu.cn/wp-content/uploads/2020/10/interface.png)
